@@ -1,6 +1,6 @@
 # Predicting Employee Turnover: Scoping and Benchmarking the State-of-the-Art</br><sub><sub>Simon De Vos, Chris Rickermann, Jente Van Belle, Wouter Verbeke [[Business & Information Systems Engineering, 2024]](https://doi.org/10.1007/s12599-024-00898-z)</sub></sub>  
 
-In this repository, we provide the resources and code associated with our paper *"Predicting Employee Turnover: Scoping and Benchmarking the State-of-the-Art"*. This paper benchmarks state-of-the-art models and techniques for predicting employee turnover, focusing on scalability, performance, and interpretability.  
+This repository contains the code and datasets used in our study on employee turnover prediction. The paper addresses inconsistencies in existing research methodologies and proposes a comprehensive benchmarking experiment involving 14 classification methods across 9 datasets. The results provide actionable insights for improving workforce management and retention strategies. 
 
 ## Repository Structure
 This repository is organized as follows:
